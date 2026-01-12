@@ -1,0 +1,16 @@
+Cau 1
+Sau khi học xong môn Lập trình Di động, em mong muốn nắm vững các kiến thức nền tảng
+về lập trình ứng dụng trên thiết bị di động.
+
+Định hướng của em là có thể tự xây dựng được các ứng dụng cơ bản, hiểu rõ cách thiết kế
+giao diện (UI), xử lý sự kiện và làm việc với dữ liệu.
+
+Cau 2
+Theo em, trong 10 năm tới lập trình di động vẫn sẽ tiếp tục phát triển mạnh mẽ.
+
+Nguyên nhân là do số lượng người sử dụng smartphone ngày càng tăng, các dịch vụ
+như thương mại điện tử, ngân hàng số, học trực tuyến, y tế thông minh đều phụ thuộc
+nhiều vào ứng dụng di động.
+
+Ngoài ra, sự phát triển của công nghệ như AI, IoT và 5G cũng giúp các ứng dụng
+di động ngày càng thông minh và cần thiết hơn trong đời sống.
